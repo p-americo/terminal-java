@@ -1,0 +1,206 @@
+history
+cd ..
+ls
+pwd
+cd src2
+touch teste
+ls
+ls
+ls
+ls
+LS
+ls
+cat history
+history
+pwd
+cd..
+cd ..
+cat history.txt
+cd Terminal
+cat history.txt
+pwd
+ls
+ls
+cd src
+pwd
+mkdir src3
+ls
+pwd
+cd ..
+ls
+cd src3
+cd src2
+ls
+cd ..
+cd src
+ls
+rm src3
+ls
+rm src3
+ls
+cd Terminal
+cd src
+cd ..
+cd ..
+ls
+rm teste
+ls
+cd src
+ls
+rm src3
+ls
+pwd
+ls
+cd src2
+ls
+cd ..
+mkdir src3
+ls
+cd src3
+cd..
+cd ..
+rm src3
+cd ..
+ls
+cd Terminal
+ls
+cd src2
+mkdir src3
+ls
+rm src3
+ls
+ls
+cd ..
+ls
+rm src2
+rm src2
+ls
+rm teste2
+rm src2
+mkdir src3
+rm src3
+cd src2
+rm src3
+ls
+cd ..
+rm src2
+touch teste1
+ls
+echo ola > teste1
+cat teste1
+rm teste1
+ls
+cd src2
+touch teste1
+echo ola > teste1
+cat teste1
+rm tete1
+ls
+history
+cat history
+cat history.txt
+ls
+pwd
+cd src2
+ls
+rm src3
+ls
+cd ..
+rm src2
+ls
+rm teste1
+ls
+mkdir src2
+touch teste1
+ls
+cd src2
+ls
+ls
+cd ..
+rm teste1
+ls
+cd src2
+touch teste1
+ls
+ls
+pwd
+cd ..
+ls
+pwd
+ls
+rm teste1
+ls
+rm src2
+ls
+mkdir src2
+ls
+cd src2
+cd ..
+cd src2
+ls
+touch test1
+ls
+cd ..
+ls
+cd sr2
+cd src2
+echou ola > teste1
+echo ola > teste1
+cat teste1
+ls
+echo olaa > test1
+ls
+cat test1
+rm test1
+rm teste1
+cd ..
+ls
+rm src2
+ls
+history
+cat history.txt
+pwd
+ls
+mkdir src2
+cd src2
+touch teste1
+echo ola > teste1
+cat teste1
+rm teste1
+cd ..
+mkdir src2
+cd src2
+touch teste1
+ls
+rm teste1
+ls
+cd ..
+rm src2
+history
+echo ola > teste1
+ls
+cat teste1
+rm teste1
+ls
+pwd
+ls
+mkdir src2
+ls
+cd src2
+ls
+cd ..
+cd src2
+touch teste1
+ls
+echo ola > teste1
+cat teste1
+echo dada > teste2
+ls
+cate teste2
+cat teste2
+history
+cat history.txt
+cat history.txt
+cd ..
+cat history
+cat history.txt
